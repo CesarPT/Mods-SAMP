@@ -1,0 +1,17 @@
+C:\Users\cesar\Documents\GitHub\Mods-SAMP\modsSamp\bin\Debug\net8.0-windows\modsSamp.exe
+C:\Users\cesar\Documents\GitHub\Mods-SAMP\modsSamp\bin\Debug\net8.0-windows\modsSamp.deps.json
+C:\Users\cesar\Documents\GitHub\Mods-SAMP\modsSamp\bin\Debug\net8.0-windows\modsSamp.runtimeconfig.json
+C:\Users\cesar\Documents\GitHub\Mods-SAMP\modsSamp\bin\Debug\net8.0-windows\modsSamp.dll
+C:\Users\cesar\Documents\GitHub\Mods-SAMP\modsSamp\bin\Debug\net8.0-windows\modsSamp.pdb
+C:\Users\cesar\Documents\GitHub\Mods-SAMP\modsSamp\obj\Debug\net8.0-windows\modsSamp.Form1.resources
+C:\Users\cesar\Documents\GitHub\Mods-SAMP\modsSamp\obj\Debug\net8.0-windows\modsSamp.csproj.GenerateResource.cache
+C:\Users\cesar\Documents\GitHub\Mods-SAMP\modsSamp\obj\Debug\net8.0-windows\modsSamp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesar\Documents\GitHub\Mods-SAMP\modsSamp\obj\Debug\net8.0-windows\modsSamp.AssemblyInfoInputs.cache
+C:\Users\cesar\Documents\GitHub\Mods-SAMP\modsSamp\obj\Debug\net8.0-windows\modsSamp.AssemblyInfo.cs
+C:\Users\cesar\Documents\GitHub\Mods-SAMP\modsSamp\obj\Debug\net8.0-windows\modsSamp.csproj.CoreCompileInputs.cache
+C:\Users\cesar\Documents\GitHub\Mods-SAMP\modsSamp\obj\Debug\net8.0-windows\modsSamp.sourcelink.json
+C:\Users\cesar\Documents\GitHub\Mods-SAMP\modsSamp\obj\Debug\net8.0-windows\modsSamp.dll
+C:\Users\cesar\Documents\GitHub\Mods-SAMP\modsSamp\obj\Debug\net8.0-windows\refint\modsSamp.dll
+C:\Users\cesar\Documents\GitHub\Mods-SAMP\modsSamp\obj\Debug\net8.0-windows\modsSamp.pdb
+C:\Users\cesar\Documents\GitHub\Mods-SAMP\modsSamp\obj\Debug\net8.0-windows\modsSamp.genruntimeconfig.cache
+C:\Users\cesar\Documents\GitHub\Mods-SAMP\modsSamp\obj\Debug\net8.0-windows\ref\modsSamp.dll
